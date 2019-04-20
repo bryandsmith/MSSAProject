@@ -17,3 +17,6 @@ Requirements backlog:
 Future updates:
   Text-to-speech support
   Image-to-text support
+
+
+Link to app: https://recipeboxdev.azurewebsites.net/
